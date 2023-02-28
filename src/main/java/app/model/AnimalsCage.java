@@ -25,4 +25,5 @@ public class AnimalsCage {
         System.out.println(new Timer().getTime());
         System.out.println("________________________");
     }
+
 }
